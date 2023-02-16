@@ -1,0 +1,2 @@
+merge sort - dividing the array to small pieces and then merging them together till it becomes sorted
+bubble sort - we will compare elements with next element and largest element goes to the end at the end of iteration
