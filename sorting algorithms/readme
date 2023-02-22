@@ -1,2 +1,4 @@
 merge sort - dividing the array to small pieces and then merging them together till it becomes sorted - o(n logn)
 bubble sort - we will compare elements with next element and largest element goes to the end at the end of iteration o(n2)
+InsertionSort- comparing each element to the ones that come before it, inserting it into its correct position in the sorted part of the array.
+SelectionSort- repeatedly finding the minimum element from an unsorted list and moving it to the beginning of the list. O(n2)
